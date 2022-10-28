@@ -1,6 +1,6 @@
 Jade Britzman s3920256
 
-Github Repo: 
+Github Repo: https://github.com/Faerie-Fire-Games/AudioVisualiser
 
 This is a very simple audio visualiser. It is supposed to abstractly resemble a vinyl record that pulses with the music. When the music hits a certain point a particle burst will occur and all the colours will change. Designed for use with this song https://open.spotify.com/track/46gSk82duJtX3TTA182ruG?si=637e2ebf8a2545ac (Works with anything though of course)
 
